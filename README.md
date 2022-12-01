@@ -26,7 +26,7 @@ Yardımcı olabilecek kaynaklar:
 
 ## Donanım
 
-| **LENOVO** | Detay                                                  |
+| **DELL** | Detay                                                  |
 | ------------------- | ------------------------------------------- |
 | Model Ismi      | DELL Latitude 5491      |
 | Anakart           | 	DELL 0VGJ22     |
