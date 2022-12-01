@@ -52,6 +52,7 @@ macOS High Sierra 10.13.6, Mojave 10.14.6, Catalina 10.15.7, macOS Big Sur 12.6 
 - [x] TouchPad ve macOS fonksiyonları (Full)
 
 ### Çalışmıyor
+- [ ] SIM Kart (Cellular - Sierra Wireless AirPrime)
 - [ ] Ethernet (BIOS'tan Ethernet'i açınca macOS açılmıyor)
 - [ ] Ekran parlaklığı
 - [ ] HDMI (tam anlamıyla çalışmıyor)
