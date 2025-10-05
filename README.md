@@ -69,7 +69,7 @@ macOS High Sierra 10.13.6, Mojave 10.14.6, Catalina 10.15.7, macOS Big Sur 12.6 
 Herhangi bir adımda sorun yaşıyorsanız, öncelikli olarak [issue](https://github.com/sutsurup/DELL-Latitude-5491/issues) bölümüne destek talebi açın! Diğer sorularınız için, Website: http://sutsurup.com // Mail: [veyselfurkan@icloud.com](mailto:veyselfurkan@icloud.com)
 
 ## Ekran Görüntüleri
-![](Screenshots/Monterey.png)
+![](Screenshots/monterey.png)
 
 </details>
 
